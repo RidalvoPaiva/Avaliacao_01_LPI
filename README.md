@@ -1,5 +1,4 @@
-# Criar arquivo README.md
-cat > README.md << 'EOF'
+
 # Sistema CRUD de Cadastro de Pessoas
 
 ##  Descrição
